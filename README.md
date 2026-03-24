@@ -14,4 +14,4 @@ e armazenadas conforme políticas internas da organização.
 Nenhuma informação pessoal sensível é coletada além do necessário para o
 funcionamento da extensão.
 
-Em caso de dúvidas, entre em contato pelo e-mail: SEU_EMAIL@gmail.com
+Em caso de dúvidas, entre em contato pelo e-mail: ju.12ferre@gmail.com
